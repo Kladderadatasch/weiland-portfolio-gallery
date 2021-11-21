@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://emilia.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+      <img alt="LekoArts" src="content/assets/ProfilPicCrop.png" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Emilia
+  Manus' Gallery
 </h1>
 
 <p align="center">
